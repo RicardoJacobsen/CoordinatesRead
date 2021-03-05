@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1614753971 source:c:\users\ricar\desktop\ict289\bone\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	"obj3d.h"
+
+1614751932 c:\users\ricar\desktop\ict289\bone\obj3d.h
+
